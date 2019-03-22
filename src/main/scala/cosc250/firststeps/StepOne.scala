@@ -264,7 +264,7 @@ object StepOne {
 
           listBuff.toList*/
 
-          // Functional solution
+          // Functional solution 1 (both solutions in ScalaTutorial MatchingLetters)
 
           // getting all the combinations of letter/index pairs for the two words, to have them accessible at the same
           // level
